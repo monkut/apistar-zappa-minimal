@@ -1,0 +1,11 @@
+{
+    "dev": {
+        "app_function": "app.app",
+        "aws_region": "us-west-2",
+        "profile_name": "default",
+        "s3_bucket": "zappa-[my bucket]",
+        "keep_warm": false,
+        "slim_handler": true
+    }
+}
+

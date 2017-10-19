@@ -1,0 +1,8 @@
+zappa
+apistar
+boto3==1.4.7
+apistar
+geopy
+arrow
+tmstiler
+
