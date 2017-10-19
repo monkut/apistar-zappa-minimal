@@ -1,5 +1,5 @@
-zappa
-apistar
+zappa==0.44.3
+apistar==0.3.9
 boto3==1.4.7
 apistar
 geopy
