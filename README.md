@@ -42,7 +42,7 @@ This is a minimal [apistar](https://github.com/encode/apistar) project intended 
 5. Deploy to AWS lambda via zappa
 
     ```
-    zappa deploy
+    (.venv)$ zappa deploy
     ...
     Deploying API Gateway..
     Your updated Zappa deployment is live!: https://[URL]/dev
